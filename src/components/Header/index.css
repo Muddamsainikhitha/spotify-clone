@@ -1,0 +1,55 @@
+.navbar-container {
+  background-color: #cbd5e1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  font-family: 'inter';
+}
+
+.website {
+  color: black;
+  padding: 10px;
+  padding-left: 50px;
+}
+
+.header-list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  margin-right: 125px;
+}
+
+.home {
+  color: black;
+  font-size: 17px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+
+.logout-button {
+  background-color: #717489;
+  padding: 10px;
+  border-radius: 6px;
+  color: #fff;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border: none;
+  margin-right: 55px;
+  width: 110px;
+}
+
+.jon-heading {
+  margin-left: 40px;
+}
+
+.link-item {
+  text-decoration: none;
+}
+
+.search-input {
+  height: 6vh;
+  width: 45vh;
+  margin-right: 30vh;
+  padding-left: 5px;
+}

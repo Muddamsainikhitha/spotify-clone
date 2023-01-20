@@ -1,0 +1,39 @@
+.song-card-container {
+  background-color: #152850;
+  color: white;
+  margin: 40px;
+}
+
+.playlist-song-pic {
+  height: 30vh;
+  width: 30vh;
+}
+
+.playList-items-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.name-genre-container {
+  display: flex;
+}
+
+.song-details-container {
+  padding-left: 40px;
+  padding-top: 50px;
+}
+
+.playlist-song-duration {
+  padding-top: 50px;
+  padding-right: 150px;
+}
+
+.button {
+  padding: 10px;
+  border-radius: 6px;
+  color: #152850;
+  font-family: 'Roboto';
+  font-weight: 500;
+  border: none;
+  margin-top: 10px;
+}
